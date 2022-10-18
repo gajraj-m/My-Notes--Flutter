@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735650776284",
+    "project_id": "mynotes-gajraj-flutterfire",
+    "storage_bucket": "mynotes-gajraj-flutterfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735650776284:android:686d7b23a5bfeee05b6019",
+        "android_client_info": {
+          "package_name": "com.gajraj.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735650776284-38l8or4898blpju7m4hhr67enqv3fi7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8TmnMEqwmBiRdR0ZMTkDJm1z8jyHqvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735650776284-38l8or4898blpju7m4hhr67enqv3fi7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
