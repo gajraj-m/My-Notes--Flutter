@@ -83,6 +83,12 @@ class _RegisterViewState extends State<RegisterView> {
                       _password.clear();
                     }, // registering a user on firebase isn't going to be immediate so its an async task
                   ),
+                  TextButton(
+                      onPressed: () {
+                        Navigator.of(context).pushNamedAndRemoveUntil(
+                            '/login/', (route) => false);
+                      },
+                      child: const Text('Already registered ? Login here')),
                 ],
               );
             default:
